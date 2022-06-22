@@ -22,7 +22,7 @@ public class InformacoesSalariais {
         System.out.println();
         System.out.printf("O Valor que você pagou ao inss é de: R$ %.2f", inss);
         System.out.println();
-        System.out.printf("Valor que você pagou ao sindicato é de: R$ %.2f",sindicato);
+        System.out.printf("O Valor que você pagou ao sindicato é de: R$ %.2f",sindicato);
         System.out.println();
         System.out.printf("O seu salário liquído é de: R$ %.2f",valorLiquido);
     }
