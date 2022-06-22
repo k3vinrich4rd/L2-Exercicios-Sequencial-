@@ -12,7 +12,7 @@ public class SalarioHorasTrabalhadas {
         double horasTrabalhadas = input.nextDouble();
         input.close();
 
-        double salario = ( ganhoPorHora * horasTrabalhadas);
+        double salario = (ganhoPorHora * horasTrabalhadas);
         System.out.printf("O seu salário no mês é: R$ %.0f ",salario);
 
 
